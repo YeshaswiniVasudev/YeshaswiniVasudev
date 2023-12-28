@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 I'm Yeshaswini Vasudeva Murthy, a Software Developer who is passionate about technologies and innovation.
 
 ### College Coursework Projects
-- [Encryption Stack] (https://github.com/YeshaswiniVasudev/Project-4a)
-- [Board For Bored] (https://github.com/YeshaswiniVasudev/projectgroup8-cs615)
+- [Encryption Stack](https://github.com/YeshaswiniVasudev/Project-4a)
+- [Board For Bored](https://github.com/YeshaswiniVasudev/projectgroup8-cs615)
 - [Chris](https://github.com/YeshaswiniVasudev/ChRIS)
     
 ### Personal Projects
-- [Tic Tac Toe] (https://github.com/YeshaswiniVasudev/TicTacToe)
+- [Tic Tac Toe](https://github.com/YeshaswiniVasudev/TicTacToe)
 
 
 ### Tech Stack

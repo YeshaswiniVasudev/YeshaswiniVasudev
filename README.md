@@ -22,7 +22,7 @@ I'm Yeshaswini Vasudeva Murthy, a Software Developer who is passionate about tec
   - Brief description
 - Board For Bored [https://github.com/YeshaswiniVasudev/projectgroup8-cs615]
   - Brief description
-- Chris ([link-to-repo](https://github.com/YeshaswiniVasudev/ChRIS))
+- [Chris](https://github.com/YeshaswiniVasudev/ChRIS)
   - description
     
 ### Personal Projects

@@ -32,7 +32,7 @@ I'm Yeshaswini Vasudeva Murthy, a Software Developer who is passionate about tec
 ### Technologies
 
 
-```jsx
+```javascript
 const Yeshaswini = {
   code: ["JavaScript", "HTML", "CSS", "Java", "Python"],
   tools: ["React", "Redux", "Node.js"],

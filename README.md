@@ -47,7 +47,7 @@ I'm Yeshaswini Vasudeva Murthy, a Software Developer who is passionate about tec
 
 Connect with me through the following platforms:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/your-username/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeshaswinivasudev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yeshaswinivasudevamurthy)
+
 

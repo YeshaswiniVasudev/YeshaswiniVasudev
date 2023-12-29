@@ -34,7 +34,7 @@ I'm Yeshaswini Vasudeva Murthy, a Software Developer who is passionate about tec
 - **Database:** MySQL
 - **Version Control:** Git
 
-  <p align="center">
+  <p>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript">
   <img src="https://img.icons8.com/officel/48/000000/react.png" alt="React">
   <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux">
